@@ -31,6 +31,17 @@ h2 {
     text-align: center;
 }
 
+img {
+    width: 15em;
+    height: auto;   
+}
+
+.image-div {
+    align-content: center;
+    display: block;
+    flex-grow: 2;
+}
+
 footer {
     font-size: 200%;
     text-align: center;
