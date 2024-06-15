@@ -26,9 +26,15 @@ h2 {
     color: blue;
 }
 
-.list {
-    list-style-type: none;
-    text-align: center;
+.video {
+    align-items: center;
+    max-width: 90%;
+}   
+
+.audio {
+    align-items: center;
+    background-color: light blue;
+    max-width: 90%;
 }
 
 img {
